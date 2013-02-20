@@ -7,7 +7,7 @@
 int functionA(char* value);
 int functionB(char* value);
 
-/* Demonstrates an alogorithm that can be implemented to prevent values being pushed on and popped off the stack */
+/* Demonstrates an alogorithm that can be implemented in such a wat that prevents values being pushed on and popped off the stack */
 
 int main(int argc, char* argv[]) {
   
